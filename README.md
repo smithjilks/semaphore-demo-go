@@ -25,7 +25,7 @@ $ go build -o ./bin/main
 
 ### Testing locally
 
-To run the tests on you machine:
+To run the tests on your machine:
 
 1. Install `gotestsum`: `go install gotest.tools/gotestsum@latest`
 2. Start a test PostgreSQL instance. The easiest way is with Docker: 
