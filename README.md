@@ -8,7 +8,7 @@ This is an example program and CI pipeline showing how to run a Go project on [S
 
 Feel free to fork this repository and use it to [create a Semaphore project][create-project].
 
-The CI pipeline is defined in `.semaphore/semaphore.yml` and when you run it it will look like this:
+The CI pipeline is defined in `.semaphore/semaphore.yml` and when you run it, it will look like this:
 
 ![CI pipeline on Semaphore](.semaphore/ci-pipeline.png)
 
